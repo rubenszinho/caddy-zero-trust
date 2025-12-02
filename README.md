@@ -64,4 +64,4 @@ docker run -d \
 
 See [LICENSE](LICENSE) for details.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/jPo5no?referralCode=5oF91f&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/caddy-zero-trust?referralCode=5oF91f&utm_medium=integration&utm_source=template&utm_campaign=generic)
